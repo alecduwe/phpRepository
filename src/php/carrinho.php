@@ -33,64 +33,7 @@ $(document).ready(function(){
 });
 
 </script>
-<style>
 
-
-*BARRA DE NAVEGAÇÃO (AINDA NÃO PRONTA)*
-
-#barra {
-	 background-color: white;
-	   width: 1400px;
-	   padding: 6px 40px;
-}
-
-#cabecalho {
-
-				 font-family: verdana;
-				 color: white;
-				 margin: 6px 4px;
-				 width: 70%;
-				 position: absolute;
-				 right: 0px;
-
-					border-radius: 12px;
-					
-
-			   }
-			   
-#banner {
-	width : 1150px;
-	height : 300px;
-		
-}
-#banner2 {
-	width : 1150px;
-	height : 300px;
-		
-}
-#banner3 {
-	width : 1150px;
-	height : 300px;
-		
-}
-#banner4 {
-	width : 1150px;
-	height : 300px;
-}
-#barriu{
-		   width: 1350px;
-	   padding: 6px 100px;
-}
-
-td, th {
-    border: 2px solid #dddddd;
-    text-align: left;
-    padding: 6px 40px;
-	 background-color: rgba(192,192,192,0.9);
-}
-
-
-</style>
 </head><META CHARSET ="UTF-8">
 <body background="pixelWallpaper.png">
 
